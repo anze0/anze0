@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anze0
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning in school C# but I want to learn HTML, CSS, JS
+- 🌱 I’m currently learning in school C# and I'm learning at home HTML, CSS, JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
